@@ -1,0 +1,23 @@
+﻿# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (কখন commit করবন ন)
+*.keystore
+google-services.json
+GoogleService-Info.plist
+lib/config/secrets.dart

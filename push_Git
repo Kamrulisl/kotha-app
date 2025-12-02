@@ -1,0 +1,11 @@
+git remote add origin https://github.com/Kamrulisl/kotha-app.git
+
+git init
+
+git add .
+
+git status
+
+git push -f origin main
+
+git pull origin main --allow-unrelated-histories
